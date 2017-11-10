@@ -4,6 +4,6 @@ const app = new Vue({
 		data : {
 			hello : "hey there"
 		}
-})
+});
 
 export {app};

@@ -10,6 +10,9 @@ const indexHTML = (()=> {
 })();
 
 app.use("/dist" , express.static(path.resolve(__dirname,"./dist/")));
+
+require("./build/dev-server")(app);
+
 app.get("*",(req,res) => {
 res.write(indexHTML);
 res.end();
