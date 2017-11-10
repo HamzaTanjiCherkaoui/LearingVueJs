@@ -2,10 +2,10 @@ const path = require("path");
 
 const config = {
 	entry: {
-		app:path.resolve(__dirname,"../src/client.entry.js")
+		app: path.resolve(__dirname,"../src/client.entry.js")
 	},
 	output : {
-		path : app:path.resolve(__dirname,"../dist"),
+		path : path.resolve(__dirname,"../dist"),
 		publicPath : "/",
 		filename : "assets/js/[name].js"
 	}
