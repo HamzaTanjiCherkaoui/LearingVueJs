@@ -29,5 +29,5 @@
 </script>
 
 <style lang="scss">
-
+@import '~bulma'
 </style>
