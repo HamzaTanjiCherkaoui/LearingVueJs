@@ -31,8 +31,8 @@
 - [ ] Route Query and Name
 - [ ] Wildcard Route
 - [ ] Lazy Loading
-- [ ] Receiving Data - Setup
-- [ ] Receiving Data
+- [x] Receiving Data - Setup
+- [x] Receiving Data
 - [ ] JWT
 - [ ] Authentication Call
 - [ ] Authentication Status
