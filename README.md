@@ -1,0 +1,62 @@
+## learningVueJs 
+
+- [x] Project Files
+- [x] Environment Setup
+- [x] Project Setup
+- [x] Editorconfig
+- [x] Package Management
+- [x] Web Server
+- [x] Web Server - Index.html
+- [x] Webpack - Setup
+- [x] Webpack - Entry
+- [x] Webpack - Vue
+- [x] Dev-middleware
+- [x] Hot-reloading
+- [x] Linting
+- [x] Vue Component
+- [x] .Vue Files
+- [x] ES6 Transpiling
+- [x] Styles
+- [x] Template Binding
+- [x] Child Components
+- [x] Custom Properties
+- [x] Slots
+- [x] Scoped Styles
+- [x] Extract Styles
+- [x] Loading Routes
+- [x] History Mode
+- [ ] Router-link - Scroll-behavior
+- [ ] Redirect
+- [ ] Route Parameters
+- [ ] Route Query and Name
+- [ ] Wildcard Route
+- [ ] Lazy Loading
+- [ ] Receiving Data - Setup
+- [ ] Receiving Data
+- [ ] JWT
+- [ ] Authentication Call
+- [ ] Authentication Status
+- [ ] Intercept Requests
+- [ ] Communication Through Events
+- [ ] Vuex Setup
+- [ ] Getters
+- [ ] Actions - Mutations
+- [ ] Triggering Actions
+- [ ] Modules
+- [ ] Server-side vs. Client-side
+- [ ] Server-entry
+- [ ] Dev Server Bundle Callback
+- [ ] Bundle Renderer
+- [ ] Routes
+- [ ] Initial State
+- [ ] Testing Options
+- [ ] Testing Setup
+- [ ] Testing Component
+- [ ] Testing Component Changes
+- [ ] Testing with Router and State
+- [ ] Production Build Process
+- [ ] Production Build Optimizations
+- [ ] Github
+- [ ] Continuous Integration
+- [ ] Azure Setup
+- [ ] Deploy Script
